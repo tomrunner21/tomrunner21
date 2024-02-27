@@ -344,7 +344,7 @@ Here are some ideas to get you started:
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+        src="https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000"
         alt="photoshop"
         align="left"
         height="42px"
