@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Thomas Covarrubias</h1>
 <h3 align="center">A full stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomrunner21&label=Profile%20views&color=0e75b6&style=flat" alt="tomrunner21" /> </p>
+
 
 - 🌱 I’m currently learning **visionOS, unreal engine, blender, graph databases, unity, iconic**
 
