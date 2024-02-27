@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tomrunner21/tomrunner21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,7 +45,7 @@ Here are some ideas to get you started:
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
+        src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"
         alt="angularjs"
         align="left"
         height="42px"
@@ -153,7 +151,7 @@ Here are some ideas to get you started:
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-        src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
+        src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
         alt="express"
         align="left"
         height="42px"
@@ -207,6 +205,7 @@ Here are some ideas to get you started:
         height="42px"
     />
     </a>
+    </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
         src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -217,7 +216,7 @@ Here are some ideas to get you started:
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
         alt="html5"
         align="left"
         height="42px"
