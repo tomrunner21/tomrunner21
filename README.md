@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" height="42px" style="margin: 5px; width: 8%;"></a>
 <a href="hhttps://vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="42px" style="margin: 5px; width: 8%;"></a> 
 </div>
-<h3 align="left">Backend and Mobile App Devevlopment:</h3>
+<h3 align="left">Backend and Mobile App Development:</h3>
 <div style="height: 15px;">&nbsp;</div>
 <div style="display: flex; flex-wrap: wrap;">
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" height="42px" style="margin: 5px; width: 8%;"></a>
