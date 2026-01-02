@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Thomas Covarrubias</h1>
-<h3 align="center">A full stack web developer</h3>
+<h3 align="center">I am currently an Automation Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p>
@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 </p>
 
 - 🌱 I’m currently learning **visionOS, unreal engine, blender, graph databases, unity, iconic**
+  - I am studying to complete the RHCSA certification by the end of January
 
 - 👨‍💻 All of my projects are available at [https://www.ludoinvest.com/](https://www.ludoinvest.com/)
+  - Should be updated by January 9th, 2026, getting used to the frontend again to better reorganize my projects...
 
-- 💬 Ask me about **react, vue, python, data engineering**
+- 💬 Ask me about **Python, Data Engineering, VMWare, Splunk, and Homelabbing**
+  - Almost done setting my older iMac to use Arch Linux and run kubernetes projects on my 4 Raspberry Pis!
 
-
-
-
-&nbsp;<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomrunner21&show_icons=true&theme=dark&title_color=ff0000&text_color=7300ff&locale=en&layout=compact" alt="tomrunner21" /></div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomrunner21&theme=radical)
 
 <h3 align="left">Programming Languages:</h3>
 <div style="height: 15px;">&nbsp;</div>
