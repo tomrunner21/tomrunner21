@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 <a href='https://linkedin.com/in/thomas-c-34a114110/'><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 </p>
 
+- 🔭 I am currently on working on repurposing my 2017 iMac to work with 3 raspberry pi's to be a starter homelab.
+  - I am putting Arch Linux on the iMac so I can dual boot Linux and Mac OS
+  - Then I have 2 raspberry pi 5's, one that is 16gb and one that is 16 gb and one that is 8gb
+  - Then I have 1 raspberry pi 4, that has 8gb (my original raspberry pi I used to build with 8 years ago)
+  - I am trying to add in an infiniband that connects the iMac to the two raspberry pi 5's and use the raspberry pi 4 as a backup node
 - 🌱 I’m currently learning **visionOS, unreal engine, blender, graph databases, unity, iconic**
   - I am studying to complete the RHCSA certification by the end of January
 
